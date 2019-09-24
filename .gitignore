@@ -6,3 +6,7 @@ node_modules
 # Generated files
 .psci
 output
+.DS_Store
+.psc-ide-port
+.spago
+generated-docs
