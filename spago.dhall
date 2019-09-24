@@ -6,4 +6,8 @@
     ./packages.dhall
 , sources =
     [ "src/**/*.purs", "test/**/*.purs" ]
+, license =
+    "MIT"
+, repository =
+    "https://github.com/sigilion/purescript-run-halogen"
 }
