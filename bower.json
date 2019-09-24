@@ -1,0 +1,23 @@
+{
+    "name": "purescript-run-halogen",
+    "license": [
+        "MIT"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sigilion/purescript-run-halogen"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "output"
+    ],
+    "dependencies": {
+        "purescript-console": "^v4.2.0",
+        "purescript-effect": "^v2.0.1",
+        "purescript-halogen": "^v5.0.0-rc.7",
+        "purescript-psci-support": "^v4.0.0",
+        "purescript-run": "^v3.0.1"
+    }
+}
